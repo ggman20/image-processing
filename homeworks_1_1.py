@@ -27,7 +27,7 @@ for i in range(0,256):
 M = np.array(M)
 
 img = Image.fromarray(M)
-img.save("homeworks_1_2.png")
+# img.save("homeworks_1_1.png")
 img.show()
 
           
