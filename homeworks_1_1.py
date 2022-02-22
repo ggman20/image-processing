@@ -7,7 +7,6 @@ Created on Mon Feb 21 16:06:12 2022
 
 import numpy as np
 from PIL import Image
-import numpy as np
 
 V = []
 
